@@ -110,7 +110,7 @@ git clone https://github.com/Aditya-alpha/Scorevision
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Anshul Pemberthi]  [bendrearyanajit18@gmail.com]  [https://github.com/aryan1827]
+- [Anshul Pemberthi]  [pemberthianshul@gmail.com ]  [https://github.com/anshulstack]
 - [Padmin Bhat]  [Paddybhat26@gmail.com]  [https://github.com/Padmin-12]
 - [Aryan Bendre]  [bendrearyanajit18@gmail.com]  [https://github.com/aryan1827]
 - [Aditya Bandral]  [bandraladitya5544@gmail.com]  [https://github.com/Aditya-alpha]
