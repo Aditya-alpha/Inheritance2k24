@@ -35,9 +35,8 @@
 ## 🔗Links
 
 - [GitHub Repository] [https://github.com/Aditya-alpha/Scorevision]
-- [Demo Video]()
-- [Drive Link to Screenshots of your project]()
-- [Hosted Website Link] [https://scorevision.netlify.app/]
+- [https://drive.google.com/drive/folders/1mNZ-1QMX3HbWrpFaNUbNBgEVdWdjutmv]
+- [Hosted Website Link] [https://scorevision.netlify.app]
 - [Hosted Backend Link] [https://scorevision.onrender.com]
 
 
