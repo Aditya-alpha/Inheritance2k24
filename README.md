@@ -34,7 +34,7 @@
 
 ## 🔗Links
 
-- [GitHub Repository](https://github.com/Aditya-alpha/Scorevision)
+- [GitHub Repository] [https://github.com/Aditya-alpha/Scorevision]
 - [Demo Video]()
 - [Drive Link to Screenshots of your project]()
 - [Hosted Website Link] [https://scorevision.netlify.app/]
@@ -77,14 +77,14 @@
 - Based on credit score, showed suggestions
 
 
-- Partially implemented features in your project
+#### Partially implemented features in your project
 
 - Based on credit score, shows suggestions
 - Auth0
 
 ## 🔮Future Scope
 
-    ScoreVision has the potential to expand its functionality by incorporating a loan recommendation system. Based on the calculated credit score, the platform can suggest suitable loan options with appropriate interest rates, helping users make informed financial decisions. This feature can enhance user experience by providing personalized financial insights and recommendations, making ScoreVision a comprehensive tool for credit assessment and financial planning.
+ScoreVision has the potential to expand its functionality by incorporating a loan recommendation system. Based on the calculated credit score, the platform can suggest suitable loan options with appropriate interest rates, helping users make informed financial decisions. This feature can enhance user experience by providing personalized financial insights and recommendations, making ScoreVision a comprehensive tool for credit assessment and financial planning.
 
 ## 💸Applications
 
