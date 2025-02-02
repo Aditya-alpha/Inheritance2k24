@@ -79,7 +79,7 @@
 #### Partially implemented features in your project
 
 - Based on credit score, shows suggestions
-- Auth0
+- OAuth
 
 ## 🔮Future Scope
 
