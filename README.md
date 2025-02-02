@@ -58,26 +58,29 @@
 
 #### Database
 - MongoDB
+- Cloudinary
 
 #### nlp
 -Ml
 
+#### ocr
+-Pytesseract
+
 ## 📈Progress
 
-List down all the fully implemented features in your project
 
-User verification via email otp 
-Successfully stores and reads the upoloaded images
-Calculated Credit Score
-Displayed Credit Score in Gauge Chart for easy understanding
-Provided individual credit score of each dependent variable
-Based on credit score, showed suggestions
+- User verification via email otp 
+- Successfully stores and reads the upoloaded images
+- Calculated Credit Score
+- Displayed Credit Score in Gauge Chart for easy understanding
+- Provided individual credit score of each dependent variable
+- Based on credit score, showed suggestions
 
 
-List down all the partially implemented features in your project
+- Partially implemented features in your project
 
-Based on credit score, shows suggestions
-Auth0
+- Based on credit score, shows suggestions
+- Auth0
 
 ## 🔮Future Scope
 
@@ -85,6 +88,7 @@ Auth0
 
 ## 💸Applications
 
+ScoreVision can be widely applied in various industries, particularly in financial services and personal finance management. By providing accurate and personalized credit scores based on individual financial data, the platform helps users better understand their creditworthiness and make informed financial decisions. It can be used by banks, lenders, and financial institutions to evaluate loan eligibility, determine interest rates, and assess credit risk. Additionally, ScoreVision can empower individuals by offering insights into factors that impact their credit score, such as income, debt, assets, and payment history. As the platform grows, it can be expanded to include features like loan recommendations, budgeting tools, and financial planning advice, ultimately helping users optimize their financial health.
 
 ## 🛠Project Setup
 
