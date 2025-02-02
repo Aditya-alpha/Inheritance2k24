@@ -66,9 +66,18 @@
 
 List down all the fully implemented features in your project
 
+User verification via email otp 
+Successfully stores and reads the upoloaded images
+Calculated Credit Score
+Displayed Credit Score in Gauge Chart for easy understanding
+Provided individual credit score of each dependent variable
+Based on credit score, showed suggestions
 
 
 List down all the partially implemented features in your project
+
+Based on credit score, shows suggestions
+Auth0
 
 ## 🔮Future Scope
 
@@ -102,16 +111,16 @@ git clone https://github.com/Aditya-alpha/Scorevision
 Add names of your team members with their emails and links to their GitHub accounts
 
 - [Anshul Pemberthi]  [bendrearyanajit18@gmail.com]  [https://github.com/aryan1827]
-- [Padmin Bhat]  [bendrearyanajit18@gmail.com]  [https://github.com/aryan1827]
+- [Padmin Bhat]  [Paddybhat26@gmail.com]  [https://github.com/Padmin-12]
 - [Aryan Bendre]  [bendrearyanajit18@gmail.com]  [https://github.com/aryan1827]
-- [Aditya Bandral]  [bendrearyanajit18@gmail.com]  [https://github.com/aryan1827]
+- [Aditya Bandral]  [bandraladitya5544@gmail.com]  [https://github.com/Aditya-alpha]
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Mentor 1 ](): 
-- [Mentor 2 ]():
+- [Mentor 1 ]: [nskekane_b22@it.vjti.ac.in] [https://github.com/nishitkekane] 
+- [Mentor 2 ]: [msambhaikar_b22@it.vjti.ac.in] [https://github.com/MrunmayiA]
 
 ## 📱Screenshots
 
