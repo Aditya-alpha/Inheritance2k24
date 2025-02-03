@@ -128,6 +128,6 @@ Add names of your mentors with their emails and links to their GitHub accounts
 ## 📱Screenshots
 
 
-![Screenshot alt text]( "screenshot")
+![Screenshot alt text]( "https://drive.google.com/drive/folders/1mNZ-1QMX3HbWrpFaNUbNBgEVdWdjutmv")
 
 
